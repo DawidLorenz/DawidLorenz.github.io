@@ -1,0 +1,37 @@
+title: Dawid Lorenz
+logo: /assets/img/DawidLorenz.png
+email: dawidlorenz93@gmail.com
+description: Dawid Lorenz Development.
+favicon: true
+color-scheme: dark
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/dawid-lorenz-9b7345123/
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/DawidLorenz
+
+navigation:
+  - name: About Me
+    link: ./index.html
+  - name: Projects
+    link: ./Projects.html
+  - name: Architecture
+    link: ./Architecture.html
+  - name: Learning C++
+    link: ./LearningC++.html
+  - name: Learning Python
+    link: ./LearningPython.html
+  - name: Embedded
+    link: ./Embedded.html
+  - name: Links
+    link: ./Links.html
+  - name: Test
+    link: ./index2.html
